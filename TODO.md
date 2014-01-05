@@ -1,0 +1,1 @@
+* Changer la librairie de gestion de la ligne de commande avec Airline (voir http://blog.xebia.fr/2014/01/02/revue-de-presse-2014-01/#RevuedePresseXebia-EcrivezvosCLI%27sentoutesimplicit%C3%A9avecAirline)
